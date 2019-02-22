@@ -1,0 +1,25 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f9f9f9 !important;
+}
+
+.break{
+    margin-top: 6%;
+}
+
+.bg-login{
+    background: url("images/login-bg.png");
+    background-position : center;
+    background-repeat : no-repeat;
+    margin: auto;
+}
+
+.container-login{
+    max-width: 350px;
+    height: auto;
+    margin: auto;
+    
+}
